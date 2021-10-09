@@ -4,9 +4,9 @@
 
 Esta es una solución para: [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Los desafíos de Frontend Mentor ayudan a mejorar las habilidades de codificación mediante la construcción de proyectos realistas.
 
+
 ## Tabla de contenidos
 - [The Challenge](#the-challenge)
-- [Screenshot](#screenshot)
 - [Links](#links)
 - [Desarrollado con](#desarrollado-con)
 - [Autor](#autor)
@@ -28,9 +28,7 @@ Los usuarios deben poder:
 
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://order-summary-component-main-umber.vercel.app/)
 
 
 ### Desarrollado con
