@@ -19,9 +19,11 @@ Los usuarios deben poder:
 
 ### Screenshot
 - Escritorio
+
 ![Screenshot 2021-10-09 at 17-15-41 Frontend Mentor Order summary card](https://user-images.githubusercontent.com/54508726/136672791-c43cc42a-94f6-4b38-acbd-42eea7b2bdc4.png)
 
 - Mobile
+
 ![Screenshot 2021-10-09 at 17-17-21 Frontend Mentor Order summary card](https://user-images.githubusercontent.com/54508726/136672801-689d9f75-82bf-4034-b744-a86b7a83ce77.png)
 
 
