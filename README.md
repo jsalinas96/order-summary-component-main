@@ -7,6 +7,7 @@ Esta es una solución para: [Order summary card challenge on Frontend Mentor](ht
 
 ## Tabla de contenidos
 - [The Challenge](#the-challenge)
+- [Screenshots](#screenshots)
 - [Links](#links)
 - [Desarrollado con](#desarrollado-con)
 - [Autor](#autor)
@@ -17,7 +18,7 @@ Los usuarios deben poder:
 - Ver estados de desplazamiento para elementos interactivos
 
 
-### Screenshot
+### Screenshots
 - Escritorio
 
 ![Screenshot 2021-10-09 at 17-15-41 Frontend Mentor Order summary card](https://user-images.githubusercontent.com/54508726/136672791-c43cc42a-94f6-4b38-acbd-42eea7b2bdc4.png)
